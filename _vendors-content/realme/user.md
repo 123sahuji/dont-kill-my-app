@@ -22,7 +22,8 @@ Can be set to launch automatically at a set battery level.<br>
 It may terminate background processes.<br>
 
 * <strong>Super power sawing mode</strong>  - extra saving option, allows you to have at most 6 apps to use.<br>
-It will disrupt background processes.
+It will disrupt background processe
+s.
 
 
 ## App battery management
